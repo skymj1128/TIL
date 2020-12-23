@@ -6,7 +6,7 @@
 
 ## git 설치
 
-1. git-scm.com 에서 다운로드
+1. git-scm.com 에서 다운로드 d
 2. 계속 next 로 설치
 
 
